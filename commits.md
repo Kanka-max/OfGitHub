@@ -168,8 +168,9 @@ You must manually edit the conflicted file to select the changes that you want t
 - You can push your local changes to your GitHub until you resolve the merge conflict locally.
 - If you try;
   ```
- $ git merge BRANCH-NAME
+$ git merge BRANCH-NAME
 > Auto-merging styleguide.md
 > CONFLICT (content): Merge conflict in styleguide.md
 > Automatic merge failed; fix conflicts and then commit the result
+
 ```
