@@ -174,3 +174,4 @@ $ git merge BRANCH-NAME
 > Automatic merge failed; fix conflicts and then commit the result
 
 ```
+[Command Line](https://docs.github.com/en/github/collaborating-with-pull-requests/addressing-merge-conflicts/resolving-a-merge-conflict-using-the-command-line)
