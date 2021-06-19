@@ -86,3 +86,18 @@ Mention team or person
 - Type the issue/pull request or title to filter the list.
 
 ### Referencing external resources.
+
+
+
+### Creating and highlighting code blocks
+#### Fenced code blocks
+```
+def Pluto (x):
+  return display("Am cosmic man!")
+  
+```
+#### Add optional language
+```python
+song = "Jane"
+display(song)
+```
