@@ -6,3 +6,6 @@ Learning GitHub
 [gitignore syntax](https://git-scm.com/docs/gitignore#_pattern_format)
 
 [github docs](https://docs.github.com/en)
+
+*Just a simple update here!*
+*Seems the first attempt didn't work*
